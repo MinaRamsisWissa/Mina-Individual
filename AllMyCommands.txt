@@ -1,0 +1,13 @@
+# git init
+# git checkout -- "3.1 Git Branching"
+# git commit -m "Added 3 files to the repository, then deleted the file 3.1 Git Branching.txt and restored it back"
+# git remote add origin https://github.com/MinaRamsisWissa/Mina-Individual.git
+# git push -u origin master
+# git checkout -b ReadMe
+# git add README.md
+# git commit -m "Created a new branch and added README.md in it"
+# git checkout Master
+# git merge ReadMe
+# git add AllMyCommands.txt
+# git commit -m "Added the file AllMyCommands.txt that contains all of the git commands"
+# git push -u origin master
